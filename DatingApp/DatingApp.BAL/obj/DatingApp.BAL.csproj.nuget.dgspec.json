@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.BAL\\DatingApp.BAL.csproj": {}
+  },
+  "projects": {
+    "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.BAL\\DatingApp.BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.BAL\\DatingApp.BAL.csproj",
+        "projectName": "DatingApp.BAL",
+        "projectPath": "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.BAL\\DatingApp.BAL.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.DAL\\DatingApp.DAL.csproj": {
+                "projectPath": "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.DAL\\DatingApp.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.DAL\\DatingApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.DAL\\DatingApp.DAL.csproj",
+        "projectName": "DatingApp.DAL",
+        "projectPath": "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.DAL\\DatingApp.DAL.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\InternInNashTech\\dating-site-intern-NashTech-2023-BE\\DatingApp\\DatingApp.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.27.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\bin\Debug\net6.0\DatingApp.BAL.deps.json
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\bin\Debug\net6.0\DatingApp.BAL.dll
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\bin\Debug\net6.0\ref\DatingApp.BAL.dll
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\bin\Debug\net6.0\DatingApp.BAL.pdb
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\bin\Debug\net6.0\DatingApp.DAL.dll
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\bin\Debug\net6.0\DatingApp.DAL.pdb
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\obj\Debug\net6.0\DatingApp.BAL.csproj.AssemblyReference.cache
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\obj\Debug\net6.0\DatingApp.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\obj\Debug\net6.0\DatingApp.BAL.AssemblyInfoInputs.cache
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\obj\Debug\net6.0\DatingApp.BAL.AssemblyInfo.cs
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\obj\Debug\net6.0\DatingApp.BAL.csproj.CoreCompileInputs.cache
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\obj\Debug\net6.0\DatingApp.BAL.csproj.CopyComplete
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\obj\Debug\net6.0\DatingApp.BAL.dll
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\obj\Debug\net6.0\ref\DatingApp.BAL.dll
+D:\InternInNashTech\dating-site-intern-NashTech-2023-BE\DatingApp\DatingApp.BAL\obj\Debug\net6.0\DatingApp.BAL.pdb
